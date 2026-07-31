@@ -5,8 +5,8 @@
 %global crate which
 
 Name:           rust-%{crate}
-Version:        3.1.0
-Release:        2%{?dist}
+Version:        8.0.5
+Release:        1%{?dist}
 Summary:        Rust equivalent of Unix command "which"
 
 # Upstream license specification: MIT
